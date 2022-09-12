@@ -1,0 +1,11 @@
+--Projenin üç ayrý katmaný bulunmaktadýr.Bunlar;
+   --Resepsiyon modülü(Otele gelen müþteriye resepsiyonda oda kiralamak,odalarýn bakýmda veya dolu olup olmadýðýný güncellemek için oluþturulan modül)
+   --Ýnsan Kaynaklarý Modülü(Çalýþanlarýn vardiya saatlerini  ve  ayrýntýlý bilgilerini görebildiði modüldür)
+   --Yönetici modülü (Otelin bütün özelliklerini görebilen ve deðiþtirebilen yetkilidir.)
+   --Satýþ Modülü için ise odalarýn fiyat güncellemesi veya odalarýn satýþtan kaldýrýlmasý gibi iþlemler yapýlabilmektedir.
+-- Her bir modüle sadece ilgili departmanýyla giriþ yapýlabilir.
+
+
+---Proje halen eksik....
+
+
